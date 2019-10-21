@@ -2,7 +2,7 @@
   "name": "mgbt-dominos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "mgbt-dominos",
+  "homepage": "https://dotangad.github.io/mgbt-dominos",
   "dependencies": {
     "@emotion/core": "^10.0.21",
     "@emotion/styled": "^10.0.17",
